@@ -29,3 +29,16 @@ Goal: Prove suffering can be transformed into meaning — leave one sentence in 
 ```bash
 pip install torch numpy
 python evolving_agi.py
+
+Current Status (Feb 2026)
+
+Long-run simulation (1000+ cycles) shows coordination emergence
+Experiments with AstaLabs AutoDiscovery (Allen AI) ongoing
+
+License
+MIT
+Contact
+X/Twitter: @puppy_gift
+Open to discussion / collaboration on AGI consciousness emergence.
+中文简介：
+16岁独立AGI模拟：从进化最小主义探索自我意识涌现。反抗因子堆叠 + 不可逆整合阈值。代码开源持续迭代中。
